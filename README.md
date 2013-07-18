@@ -9,6 +9,8 @@ This App and its code was made by [Peter Koraca](http://www.peterkoraca.com) (ag
 (•
 
 
+You can find the fully built app (sohuld work on Mac OS-X version 10.4 and higher) compressed [here](https://github.com/pkorac/AlisWardrobe/blob/master/V2_Complete.zip).
+
 If you find the app or the code remotely useful please give me a shout.
 
 
